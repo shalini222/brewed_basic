@@ -10,7 +10,7 @@ function App() {
       <Navbar />
 
       <main style={{ padding: "40px" }}>
-        <h1>Brewed Lite</h1>
+        <h1>Brewed Lite hi</h1>
         <p>Reusable restaurant platform.</p>
       </main>
     </>
