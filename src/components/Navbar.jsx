@@ -1,5 +1,6 @@
 import BrandLogo from "./BrandLogo";
 import { BRAND } from "../config/brand";
+import "../styles/components.css";
 
 function Navbar() {
   return (
