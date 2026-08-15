@@ -1,10 +1,13 @@
+// src/config/brand.js
 
 export const BRAND = {
   name: "Brewed",
 
-  logo: "/assets/brand/logo.png",
-  logoDark: "/assets/brand/logo-dark.png",
-  favicon: "/assets/brand/favicon.png",
+  assets: {
+    logo: "/assets/brand/logo.png",
+    logoDark: "/assets/brand/logo-dark.png",
+    favicon: "/assets/brand/favicon.png",
+  },
 
   colors: {
     primary: "#6B4226",
